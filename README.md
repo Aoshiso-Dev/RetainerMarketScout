@@ -4,6 +4,10 @@ Universalis のマーケットデータを見て、リテイナーベンチャ�
 
 MVVM は `CommunityToolkit.Mvvm`、DI は `Microsoft.Extensions.DependencyInjection`、構成は Clean Architecture を意識したフォルダ分けにしています。
 
+## スクリーンショット
+
+![FF14 Retainer Market Scout](./Screenshot.png)
+
 ## 起動
 
 Windows に .NET 8 SDK 以上を入れてから実行します。
