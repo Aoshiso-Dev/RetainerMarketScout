@@ -2,4 +2,5 @@
 obj/
 .dotnet-home/
 .vs/
+artifacts/
 *.user
